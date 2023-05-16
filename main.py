@@ -12,7 +12,7 @@ import os
 import requests
 from http.cookies import SimpleCookie
 s = Service("C:\Program Files (x86)\chromedriver.exe")
-directory = r'D:\codes\heroic\files'
+directory = r'your_directory'
 driver = webdriver.Chrome(service=s)
 roi = 'no info on the website'
 driver.get('https://www.heroic.us/optimize/account/login')
