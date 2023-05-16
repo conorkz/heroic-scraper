@@ -1,4 +1,4 @@
-# Scraper of heroic.us
+# Scraper for heroic.us
 IMPORTANT: Please do consider the legal and moral implications of using this script. 
 This script scrapes all important data like summary text, description, etc and saves it in a txt file.
 ## Requirements
