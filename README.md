@@ -7,6 +7,7 @@ This script scrapes all important data like summary text, description, etc and s
 - Selenium library (`pip install selenium`)
 - Beatifulsoup4 library (`pip install beautifulsoup4`)
 - Requests library (`pip install requests`)
+- Or just run `$ pip install -r requirements.txt`
 ## Usage
 1. Write your login credentials and directory for txt files. 
 2. In a `rawdata` variable write your cookies.
